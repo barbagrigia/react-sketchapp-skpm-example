@@ -4,6 +4,9 @@ This is an example [`react-sketchapp`](http://github.com/jongold/react-sketchapp
 
 It renders a grid of `Swatch` components, and to make it interesting it dynamically computes a text color for each swatch.
 
+![image](https://cloud.githubusercontent.com/assets/591643/23916975/1a30fbb8-08ab-11e7-8870-dd7720150d04.png)
+
+
 ## Running
 ```bash
 npm install
