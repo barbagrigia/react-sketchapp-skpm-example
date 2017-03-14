@@ -1,0 +1,9 @@
+# build artefacts
+plugin.sketchplugin/Content/Sketch
+
+# npm
+node_modules
+.npm
+
+# mac
+.DS_Store

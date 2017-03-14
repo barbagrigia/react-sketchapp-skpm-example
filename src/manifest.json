@@ -1,0 +1,18 @@
+{
+  "name": "react-sketchapp-skpm-example",
+	"compatibleVersion": 3,
+	"bundleVersion": 1,
+	"commands": [
+		{
+			"name": "Run example",
+			"identifier": "run",
+			"script": "./my-command.js"
+		}
+	],
+	"menu": {
+		"title": "react-sketchapp-skpm-example",
+		"items": [
+			"run"
+		]
+	}
+}
