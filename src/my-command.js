@@ -61,7 +61,7 @@ const Document = ({ colors }) =>
   </View>;
 
 Document.propTypes = {
-  colors: React.PropTypes.arrayOf(React.PropTypes.shape(...Color)).isRequired,
+  colors: React.PropTypes.objectOf(React.PropTypes.string.isRequired).isRequired,
 };
 
 export default function (context) {
