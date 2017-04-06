@@ -4,13 +4,13 @@
 	"bundleVersion": 1,
 	"commands": [
 		{
-			"name": "Run example",
+			"name": "react-sketchapp: skpm start",
 			"identifier": "run",
 			"script": "./my-command.js"
 		}
 	],
 	"menu": {
-		"title": "react-sketchapp-skpm-example",
+		"isRoot": true,
 		"items": [
 			"run"
 		]
