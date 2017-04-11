@@ -5,14 +5,14 @@
 	"commands": [
 		{
 			"name": "react-sketchapp: skpm start",
-			"identifier": "run",
+			"identifier": "main",
 			"script": "./my-command.js"
 		}
 	],
 	"menu": {
 		"isRoot": true,
 		"items": [
-			"run"
+			"main"
 		]
 	}
 }

@@ -8,10 +8,19 @@ It renders a grid of `Swatch` components, and to make it interesting it dynamica
 
 
 ## Running
-```bash
+Install the dependencies
+```
 npm install
-npm run build # or npm run watch
-npm run link
 ```
 
+Run with live reloading in Sketch
+```
+npm run render
+```
+
+To install as a Sketch plugin:
+```
+npm run build
+npm run link-plugin
+```
 Open Sketch, and the plugin will be in `Plugins -> react-sketchapp-skpm-example`
